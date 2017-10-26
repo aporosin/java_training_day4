@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_training_day4.iml" filepath="$PROJECT_DIR$/.idea/modules/java_training_day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_training_day4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_training_day4_main.iml" group="java_training_day4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_training_day4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_training_day4_test.iml" group="java_training_day4" />
+    </modules>
+  </component>
+</project>
